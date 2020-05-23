@@ -5,7 +5,7 @@
 Given a series of points on the Earth's surface: which is the geodesic (great-circle) that minimizes the total cross distance between it and the reference points?
 
 There may be an analytical solution but it seems complicated enough, so I have taken a numerical approach.
-The expressions are taken from [movable-type](https://www.movable-type.co.uk/scripts/latlong.html).
+The geodesic formulas are taken from [movable-type](https://www.movable-type.co.uk/scripts/latlong.html).
 
 Attached is a Jupiter Notebook that provides a solution based on a double iteration:
 * it starts navigating through a random selection of great-circles, looking for those which minimize the total sum, 
