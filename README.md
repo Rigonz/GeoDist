@@ -22,7 +22,9 @@ Finally, it also generates a representation of the added cross distance from the
 ![all distances](https://github.com/Rigonz/GeoDist/blob/master/Pics/GEODIST_out%20R0.png)
 
 It allows matplotlib visualizations:
+
 ![matplot](https://github.com/Rigonz/GeoDist/blob/master/Pics/GEODIST%20R1.png)
 
 And (manual) zooming_in:
+
 ![zoom-in](https://github.com/Rigonz/GeoDist/blob/master/Pics/GEODIST%20zoom%20R1.png)
